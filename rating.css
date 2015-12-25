@@ -1,0 +1,13 @@
+.ion-rating {
+  display: inline-block;
+}
+.ion-rating ul {
+  margin: 0;
+}
+.ion-rating ul li {
+  display: inline-block;
+  padding: 0 3px;
+}
+.ion-rating ul li i {
+  font-size: 20px;
+}
